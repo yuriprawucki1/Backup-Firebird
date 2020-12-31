@@ -11,11 +11,3 @@
 ##### --> Debian: apt install bsd-mailx
 #
 ##### vim /etc/mail.rc
-###### account no-reply {
-######     set from="no-reply@email.com.br (SRVFIREBIRD)"
-######     set smtp="smtp://smtp.gmail.com:587"
-######     set smtp-use-starttls
-######     set smtp-auth=login
-######     set smtp-auth-user="no-reply@email.com.br"
-######     set smtp-auth-password="MyPassword"
-######     set ssl-verify=ignore
