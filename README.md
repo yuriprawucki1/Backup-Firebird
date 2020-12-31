@@ -9,5 +9,4 @@
 #### MAILX:
 ##### --> Centos: yum install -y mailx
 ##### --> Debian: apt install bsd-mailx
-#
-##### vim /etc/mail.rc
+##### --> vim /etc/mail.rc
