@@ -1,5 +1,5 @@
 account no-reply {
-    set from="no-reply@email.com.br (SRVFIREBIRD)"
+    set from="no-reply@email.com.br (SRV-FIREBIRD)"
     set smtp="smtp://smtp.gmail.com:587"
     set smtp-use-starttls
     set smtp-auth=login
