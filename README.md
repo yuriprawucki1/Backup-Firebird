@@ -1,6 +1,6 @@
 # Backup Firebird Script
 
-# Programando o backup para todo dia as 20hrs com notificação por e-mail
+## Programando o backup para todo dia as 20hrs com notificação por e-mail
 00 20 * * * /root/bin/backup_firebird.sh | mail -A no-reply -s "SRV-FIREBIRD - Backup Firebird Databases" meu@email.com.br
 
 # Componentes necessários:
